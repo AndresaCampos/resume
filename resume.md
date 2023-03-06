@@ -39,12 +39,12 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 * Samplers and Tensions | 10/2019 - 09/2021
   * Co-led a team of 8 scientists assessing the consistency between data collected by independent experiments.
   * Generated simulated data to evaluate the efficiency of statistical metrics in identifying inconsistencies amongst measurements of cosmological parameters by different experiments.
-  * Recommended the Dark Energy Survey Year 3 analysis strategy and published results.
+  * Recommended the Dark Energy Survey Year 3 analysis strategy and published results in renowned journal.
 
 
 ### Carnegie Mellon University, USA | Doctoral Researcher | 09/2018 - Present
 
-* Developed and tested a method to use empirical blinded data to perform model selection. 
+  * Developed and tested a method to use empirical blinded data to perform model selection. 
 
 
 ### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
