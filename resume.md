@@ -59,11 +59,12 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 
 ## Skills
 
-* **Programming languages:** Python (5+ years of experience) | Fortran | Bash
+* **Programming & Scripting Languages:** Python (5+ years of experience) | Fortran | Bash | SQL
 * **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | PySpark
-* **Database Technologies**: PostgreSQL 
-* **VCS and CI/CD Technologies:** GitHub 
-* **AI:** Applied statistics | Machine learning | Deep Neural Networks | scikit-learn | PyTorch
+* **Distributed and Parallel Programming Methodologies**: MPI | OpenMP
+* **Machine Learning & Deep Learning Frameworks:** PyTorch | scikit-learn 
+* **Statistical and Machine Learning Techniques** MCMC and variational inference with Bayesian statistical modeling | Decision Trees | k-Nearest Neighbours
+* **Neural Networks and Deep Learning:** feed-forward neural networks | auto-encoders | generative adversarial networks | recurrent neural networks | convolutional neural networks
 * **Spoken & Written Languages**: Portuguese (native) | English (fluent) | Spanish (advanced)
 
 ## Education
