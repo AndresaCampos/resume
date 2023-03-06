@@ -35,7 +35,7 @@ span {
 }
 
 a {
-    color: rgb(82, 16, 49);
+    color: rgb(100, 5, 52);
     text-decoration: none;
 }
 
@@ -65,7 +65,7 @@ h2 {
     display: flex;
     justify-content: center;
     border-bottom: 1px solid #ccc;
-    color: rgb(82, 16, 49);
+    color: rgb(100, 5, 52);
     padding-bottom: 0;
     margin-bottom: 0pt;
     padding-top: 3pt;
