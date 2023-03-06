@@ -48,7 +48,7 @@ measurements of cosmological parameters in high dimensional parameter spac
 
 * Developed and tested method to use empirical blinded data to perform model selection.
   * Applied method to the problem of intrinsic alignments -- one of the most significant weak lensing systematics, and a major contributor to the error budget in modern lensing surveys.
-  * Found a $30\%$ chance of biased posterior by more than $0.3\sigma$ when assuming the current prevalent intrinsic alignment model. 
+  * Found a 30\% chance of biased posterior by more than 0.3\sigma when assuming the current prevalent intrinsic alignment model. 
 
 
 ### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
