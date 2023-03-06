@@ -46,7 +46,8 @@ measurements of cosmological parameters in high dimensional parameter spac
 
 ### Carnegie Mellon University, USA | Doctoral Researcher | 09/2018 - Present
 
-  * Developed and tested a method to use empirical blinded data to perform model selection. 
+  * Developed and tested method to use empirical blinded data to perform model selection.
+  * 
 
 
 ### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
@@ -58,8 +59,8 @@ measurements of cosmological parameters in high dimensional parameter spac
 ## Skills
 
 * **Programming & Scripting Languages:** Python (5+ years of experience) | Fortran | Bash | SQL
-* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | PySpark
-* **Distributed and Parallel Programming Methodologies**: MPI | OpenMP
+* **Data analysis & visualization:** Numpy | Scipy | Pandas | Jupyter | Matplotlib | Seaborn | Plotly | Altair 
+* **High Performance Computing**: MPI | mpi4py | PySpark | SLURM
 * **Machine Learning & Deep Learning Frameworks:** PyTorch | scikit-learn 
 * **Statistical and Machine Learning Techniques** MCMC and variational inference with Bayesian statistical modeling | Decision Trees | k-Nearest Neighbours
 * **Neural Networks and Deep Learning:** feed-forward neural networks | auto-encoders | generative adversarial networks | recurrent neural networks | convolutional neural networks
