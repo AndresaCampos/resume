@@ -19,7 +19,7 @@ pagetitle: Andresa Rodrigues de Campos
 </header>
 
 <span>
-[<i class="fas fa-link"></i>&nbsp;andresacampos.github.io](https://andresacampos.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
+[<i class="fas fa-link"></i>&nbsp;andresacampos.github.io](https://andresacampos.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/AndresaCampos](https://github.com/AndresaCampos)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/andresa-campos](https://www.linkedin.com/in/andresa-campos/)
 </span>
 
 ## Professional Summary
