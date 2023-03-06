@@ -24,21 +24,27 @@ pagetitle: Andresa Rodrigues de Campos
 
 ## Professional Summary
 
-Doctoral candidate at Carnegie Mellon University doing research in observational cosmology. Experienced in analyzing complex data sets from astrophysical systems using machine learning and Bayesian statistical techniques. 5+ years of professional work and research experience using Python.
+Doctoral candidate at Carnegie Mellon University doing research in observational cosmology.
+Experienced in analyzing complex data sets from astrophysical systems using machine learning and Bayesian statistical techniques. 
+5+ years of professional work and research experience using Python.
 
+Experienced in applying Machine Learning and Bayesian inference techniques to studies of big datasets from astrophysical systems,
+such as gravitational lenses. Skilled at interpreting and explaining complex findings. Team lead in the international scientific collaboration
+Dark Energy Survey, with proven ability to execute projects from end to end. Published papers in major journals.
 
 ## Work Experience
 
 ### [Dark Energy Survey](https://www.darkenergysurvey.org/collaboration-and-sponsors/), USA | Analysis Team Lead
 
 * Weak Lensing Redshift Distributions | 10/2021 - Present
-  * Leading a team of 5+ scientists analyzing data of about 300 million galaxies.
+  * Leading a team of 5 scientists analyzing data of about 300 million galaxies.
   * Designed and implemented a pipeline using unsupervised learning and bayesian inference to estimate the redshift of galaxies.
   * Rewarded with exclusive data access rights and co-authored over 30 publications.
 
 * Samplers and Tensions | 10/2019 - 09/2021
   * Co-led a team of 8 scientists assessing the consistency between data collected by independent experiments.
-  * Generated simulated data to evaluate the efficiency of statistical metrics in identifying inconsistencies amongst measurements of cosmological parameters by different experiments.
+  * Generated simulated data to evaluate the efficiency of statistical metrics in identifying inconsistencies amongst
+measurements of cosmological parameters in high dimensional parameter spac
   * Recommended the Dark Energy Survey Year 3 analysis strategy and published results in renowned journal.
 
 
@@ -49,8 +55,7 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 
 ### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
 
-* Lectured Fundamentals of Physics I to ~ 70 engineering undergraduates.
-* Lectured Introductory Experimental Physics to ~ 50 engineering undergraduates.
+* Lectured the course *Fundamentals of Physics I* and *Introductory Experimental Physics* to ~ 70 engineering undergraduates.
 * Designed lectures, homework assignments and exams.
 
 
