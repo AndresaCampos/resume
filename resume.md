@@ -24,7 +24,7 @@ pagetitle: Andresa Rodrigues de Campos
 
 ## Professional Summary
 
-Doctoral candidate at Carnegie Mellon University doing research in observational cosmology using large-area sky surveys, weak gravitational lensing, machine learning, statistics, and supercomputers. 
+Doctoral candidate at Carnegie Mellon University doing research in observational cosmology 
 
 * 5 years of professional work and research experience using Python and HPC
 * 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
@@ -35,7 +35,7 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 ### [Dark Energy Survey](https://www.darkenergysurvey.org/collaboration-and-sponsors/), USA | Analysis Team Lead
 
 * Weak Lensing Redshift Distributions | 10/2021 - Present
-  * Leading a team of 5+ scientists analyzing data of about 300 million galaxies.
+  * Leading a team of 5+ scientists analyzing data of the largest sample of galaxies observed so far, about 300 million galaxies.
   * Designed and implemented a pipeline that uses unsupervised learning and bayesian inference to estimate the redshifts of galaxies.
   * Rewarded with exclusive data access rights and co-authored over 30 publications.
 
@@ -83,7 +83,7 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 ### Bachelor of Science in Physics, graduated 12/2014
 
 * Universidade Federal de São João del-Rei, Brazil
-* GPA: 9.2/10.0 
+* GPA: 9.2/10.0 | Minor in Computational Physics
 
 
 ## Selected Publications
