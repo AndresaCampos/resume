@@ -24,25 +24,23 @@ pagetitle: Andresa Rodrigues de Campos
 
 ## Professional Summary
 
-Doctoral candidate at Carnegie Mellon University doing research in observational cosmology. Experienced in analyzing complex data sets from astrophysical systems, such as gravitational lenses, using machine learning and Bayesian statistical techniques. 
-
-* 5 years of professional work and research experience using Python.
-* 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
-* Deep understanding of the TCP/IP networking stack.
+Doctoral candidate at Carnegie Mellon University doing research in observational cosmology. 
+Experienced in analyzing complex data sets from astrophysical systems using machine learning and Bayesian statistical techniques. 
+5 years of professional work and research experience using Python.
 
 ## Work Experience
 
 ### [Dark Energy Survey](https://www.darkenergysurvey.org/collaboration-and-sponsors/), USA | Analysis Team Lead
 
 * Weak Lensing Redshift Distributions | 10/2021 - Present
-  * Leading a team of 5+ scientists analyzing data of the largest sample of galaxies observed so far, about 300 million galaxies.
-  * Designed and implemented a pipeline that uses unsupervised learning and bayesian inference to estimate the redshifts of galaxies.
+  * Leading a team of 5+ scientists analyzing data of about 300 million galaxies.
+  * Designed and implemented a pipeline that uses unsupervised learning and bayesian inference to estimate the redshift of galaxies.
   * Rewarded with exclusive data access rights and co-authored over 30 publications.
 
 * Samplers and Tensions | 10/2019 - 09/2021
-  * Co-Lead a team of 8 scientists developing and testing techniques to properly combine data from different surveys to maximize constraints on cosmological parameters.
-  * Generated simulated data to assess efficiency of statistical metrics in identifying inconsistencies amongst measurements of cosmological parameters by different experiments.
-  * Recommended the Dark Energy Survey Year 3 analysis strategy based on our results: [Assessing tension metrics with dark energy survey and Planck data.](https://doi.org/10.1093/mnras/stab1670) .
+  * Co-Lead a team of 8 scientists assessing how to properly combine data from different surveys to maximize constraints on cosmological parameters.
+  * Generated simulated data to evaluate the efficiency of statistical metrics in identifying inconsistencies amongst measurements of cosmological parameters by different experiments.
+  * Recommended the Dark Energy Survey Year 3 analysis strategy and published results.
 
 
 ### Carnegie Mellon University, USA | Doctoral Researcher | 09/2018 - Present
@@ -88,6 +86,6 @@ Doctoral candidate at Carnegie Mellon University doing research in observational
 
 ## Selected Publications
 
-* **A Campos** *et al.* 2022. [An empirical approach to model selection: weak lensing and intrinsic alignments.](https://doi.org/10.48550/arXiv.2211.02800) Submitted to MNRAS.
+* **A Campos** *et al.* 2022. [An empirical approach to model selection: weak lensing and intrinsic alignments.](https://doi.org/10.48550/arXiv.2211.02800) 
 * P Lemos, M Raveri, **A Campos** *et al.* 2021. [Assessing tension metrics with dark energy survey and Planck data.](https://doi.org/10.1093/mnras/stab1670) 
 * J Myles, ..., **A Campos** *et al.* 2021. [Dark Energy Survey Year 3 results: redshift calibration of the weak lensing source galaxies.](https://doi.org/10.1093/mnras/stab1515) 
