@@ -24,9 +24,9 @@ pagetitle: Andresa Rodrigues de Campos
 
 ## Professional Summary
 
-Doctoral candidate at Carnegie Mellon University
+Doctoral candidate at Carnegie Mellon University doing research in observational cosmology using large-area sky surveys, weak gravitational lensing, machine learning, statistics, and supercomputers. 
 
-* 5 years of professional work and research experience using Python and Linux.
+* 5 years of professional work and research experience using Python and HPC
 * 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
 * Deep understanding of the TCP/IP networking stack.
 
@@ -40,34 +40,29 @@ Doctoral candidate at Carnegie Mellon University
   * Rewarded with exclusive data access rights and co-authored over 30 publications.
 
 * Samplers and Tensions | 10/2019 - 09/2021
-  * Co-Lead a team of 8 scientists 
-  * Employed Bayesian inference techniques, such as nested sampling, to compute posterior distributions.
-  * Evaluated the performance of several statistical metrics in identifying tensions – inconsistencies amongst measurements of cosmological parameters by different experiments. 
-  * Identified the optimal strategy. Recommended the Dark Energy Survey Year 3 analysis strategy based on our results.
+  * Co-Lead a team of 8 scientists developing and testing techniques to properly combine data from different surveys to maximize constraints on cosmological parameters.
+  * Generated simulated data to assess efficiency of statistical metrics in identifying inconsistencies amongst measurements of cosmological parameters by different experiments.
+  * Recommended the Dark Energy Survey Year 3 analysis strategy based on our results: [Assessing tension metrics with dark energy survey and Planck data.](https://doi.org/10.1093/mnras/stab1670) .
 
 
 ### Carnegie Mellon University, USA | Doctoral Researcher | 09/2018 - Present
 
-* Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
-  * Automated workload orchestration with Python and Docker Swarm.
-  * Integrated AWS public cloud capabilities using the `boto3` Python library.
-* Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
-  * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
+* Developed and tested a method to use empirical blinded data to perform model selection. 
+
 
 ### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
-* Lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
-* Designed innovative homework assignments using the Kathará simulator which were highly praised by students.
+
+* Lectured Fundamentals of Physics I to ~ 70 engineering undergraduates.
+* Lectured Introductory Experimental Physics to ~ 50 engineering undergraduates.
+* Designed lectures, homework assignments and exams.
 
 
 ## Skills
 
-* **Programming languages:** Python (\~6 years of experience) | Fortran | Bash
-* **System Administration:** Linux (\~10 years of experience) | Ansible
-* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | Apache Spark | Tableau
-* **Cloud Technologies:** AWS | DigitalOcean | GCP | Docker | Docker Swarm
-* **Database Technologies**: MySQL | PostgreSQL | SQLite.
-* **VCS and CI/CD Technologies:** Git | GitHub | GitHub Actions | Jenkins
-* **Networking:** Internetworking | DHCP | DNS | Routing | VLAN | NAT
+* **Programming languages:** Python (5+ years of experience) | Fortran | Bash
+* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | PySpark
+* **Database Technologies**: PostgreSQL 
+* **VCS and CI/CD Technologies:** GitHub 
 * **AI:** Applied statistics | Machine learning | Deep Neural Networks | scikit-learn | PyTorch
 * **Spoken & Written Languages**: Portuguese (native) | English (fluent) | Spanish (advanced)
 
