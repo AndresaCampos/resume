@@ -34,7 +34,7 @@ Experienced in analyzing complex data sets from astrophysical systems using mach
 
 * Weak Lensing Redshift Distributions | 10/2021 - Present
   * Leading a team of 5+ scientists analyzing data of about 300 million galaxies.
-  * Designed and implemented a pipeline that uses unsupervised learning and bayesian inference to estimate the redshift of galaxies.
+  * Designed and implemented a pipeline using unsupervised learning and bayesian inference to estimate the redshift of galaxies.
   * Rewarded with exclusive data access rights and co-authored over 30 publications.
 
 * Samplers and Tensions | 10/2019 - 09/2021
