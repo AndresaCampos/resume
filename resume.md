@@ -24,10 +24,6 @@ pagetitle: Andresa Rodrigues de Campos
 
 ## Professional Summary
 
-Doctoral candidate at Carnegie Mellon University doing research in observational cosmology.
-Experienced in analyzing complex data sets from astrophysical systems using machine learning and Bayesian statistical techniques. 
-5+ years of professional work and research experience using Python.
-
 Experienced in applying Machine Learning and Bayesian inference techniques to studies of big datasets from astrophysical systems,
 such as gravitational lenses. Skilled at interpreting and explaining complex findings. Team lead in the international scientific collaboration
 Dark Energy Survey, with proven ability to execute projects from end to end. Published papers in major journals.
