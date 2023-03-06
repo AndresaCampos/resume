@@ -6,25 +6,25 @@ pagetitle: Andresa Rodrigues de Campos
 <script src="https://use.fontawesome.com/releases/v6.0.0/js/all.js" data-auto-a11y="true" ></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo">
 
-<!-- # Manuel Olguín Muñoz -->
+<!-- # Andresa Rodrigues de Campos -->
 
 <header>
-  <h1>Manuel Olguín Muñoz</h1>
+  <h1>Andresa Rodrigues de Campos</h1>
   <span><p>
-  [<i class="fas fa-envelope"></i>&nbsp;manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</br>
-  [<i class="fa-solid fa-phone"></i>&nbsp;+46 73 652 7628](tel:0046736527628)</br>
-  [<i class="fa-solid fa-map-location"></i>&nbsp;Stockholm, Sweden](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)
+  [<i class="fas fa-envelope"></i>&nbsp;andresarodriguescampos@gmail.com](mailto:andresarodriguescampos@gmail.com)</br>
+  [<i class="fa-solid fa-phone"></i>&nbsp;+1 412 304 5910](tel:0014123045910)</br>
+  [<i class="fa-solid fa-map-location"></i>&nbsp;Pittsburgh, PA](https://goo.gl/maps/2FUjUoejjVzyW6ne9)
   </p>
   </span>
 </header>
 
 <span>
-[<i class="fas fa-link"></i>&nbsp;manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
+[<i class="fas fa-link"></i>&nbsp;andresacampos.github.io](https://andresacampos.github.io)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
 </span>
 
 ## Professional Summary
 
-Doctoral candidate at KTH researching latency-sensitive distributed applications on Edge Computing.
+Doctoral candidate at Carnegie Mellon University
 
 * 5 years of professional work and research experience using Python and Linux.
 * 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
