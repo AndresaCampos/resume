@@ -32,7 +32,21 @@ Doctoral candidate at Carnegie Mellon University
 
 ## Work Experience
 
-### KTH Royal Institute of Technology, Sweden | Doctoral Researcher | 09/2017 - Present
+### [Dark Energy Survey](https://www.darkenergysurvey.org/collaboration-and-sponsors/), USA | Analysis Team Lead
+
+* Weak Lensing Redshift Distributions | 10/2021 - Present
+  * Leading a team of 5+ scientists analyzing data of about 300 million galaxies.
+  * Designed and implemented a pipeline that uses unsupervised learning and bayesian inference to estimate the redshifts of galaxies.
+  * Rewarded with exclusive data access rights and co-authored over 30 publications.
+
+* Samplers and Tensions | 10/2019 - 09/2021
+  * Co-Lead a team of 8 scientists 
+  * Employed Bayesian inference techniques, such as nested sampling, to compute posterior distributions.
+  * Evaluated the performance of several statistical metrics in identifying tensions – inconsistencies amongst measurements of cosmological parameters by different experiments. 
+  * Identified the optimal strategy. Recommended the Dark Energy Survey Year 3 analysis strategy based on our results.
+
+
+### Carnegie Mellon University, USA | Doctoral Researcher | 09/2018 - Present
 
 * Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
   * Automated workload orchestration with Python and Docker Swarm.
@@ -40,46 +54,44 @@ Doctoral candidate at Carnegie Mellon University
 * Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
   * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
 
-### Universidad de Chile, Chile | Lecturer (Remote) | 08/2021 - 12/2021
-
-* Co-lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
+### Universidade Federal de São João del-Rei, Brazil | Lecturer | 09/2015 - 12/2015
+* Lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
 * Designed innovative homework assignments using the Kathará simulator which were highly praised by students.
 
-### NIC Chile Research Labs, Chile | Researcher and Software Developer | 08/2015 - 08/2017
-
-* Awarded an engineering degree for the development of a simulator for Intelligent Transportation Systems in C++
 
 ## Skills
 
-* **Programming languages:** Python (\~10 years of experience) | Java | Android | C++ | C | Bash
+* **Programming languages:** Python (\~6 years of experience) | Fortran | Bash
 * **System Administration:** Linux (\~10 years of experience) | Ansible
 * **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | Apache Spark | Tableau
 * **Cloud Technologies:** AWS | DigitalOcean | GCP | Docker | Docker Swarm
 * **Database Technologies**: MySQL | PostgreSQL | SQLite.
 * **VCS and CI/CD Technologies:** Git | GitHub | GitHub Actions | Jenkins
 * **Networking:** Internetworking | DHCP | DNS | Routing | VLAN | NAT
-* **AI:** Applied statistics | Machine learning | Deep Neural Networks | scikit-learn | Tensorflow
-* **Spoken & Written Languages**: Spanish (native) | English (fluent) | Swedish (fluent) | Portuguese (basic)
+* **AI:** Applied statistics | Machine learning | Deep Neural Networks | scikit-learn | PyTorch
+* **Spoken & Written Languages**: Portuguese (native) | English (fluent) | Spanish (advanced)
 
 ## Education
 
-### Ph.D. in Electrical Engineering, expected graduation 09/2022 (current)
+### Ph.D. in Physics, expected graduation 08/2023 (current)
 
-* KTH Royal Institute of Technology, Sweden
-* Doctoral Advisor: [James Gross, Ph.D.](https://jamesgross.org)
+* Carnegie Mellon University, USA
+* Doctoral Advisor: [Scott Dodelson, Ph.D.](https://www.cmu.edu/physics/people/faculty/dodelson.html)
 
-### Computing Engineer (Professional Degree), graduated 08/2017
 
-* Universidad de Chile, Chile
-* GPA: 6.5/7.0 (*Highest Honors*).
-* Equivalent to an M.Sc.Eng.
+### M.SC in Physics, graduated 08/2018
 
-### Bachelor of Engineering Sciences in Computing, graduated 12/2014
+* Institute of Theoretical Physics UNESP, Brazil
+* Masters Advisor: [Rogerio Rosenfeld, Ph.D.](https://www.ift.unesp.br/#!/en/professors-homepages/rogerio-rosenfeld/)
 
-* Universidad de Chile, Chile
+### Bachelor of Science in Physics, graduated 12/2014
+
+* Universidade Federal de São João del-Rei, Brazil
+* GPA: 9.2/10.0 
+
 
 ## Selected Publications
 
-* Olguín Muñoz *et al.* 2021. [Impact of delayed response on wearable cognitive assistance.](https://doi.org/10.1371/journal.pone.0248690) In PLOS ONE.
-* Olguín Muñoz *et al.* 2019. [EdgeDroid: An Experimental Approach to Benchmarking Human-in-the-Loop Applications.](http://doi.acm.org/10.1145/3301293.3302353) In Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications (HotMobile '19).
-* Olguín Muñoz *et al.* 2018. [Demo: Scaling on the Edge - A Benchmarking Suite for Human-in-the-Loop Applications.](https://ieeexplore.ieee.org/document/8567676) In Proceedings of the 2018 IEEE/ACM Symposium on Edge Computing (SEC '18).
+* Andresa Campos *et al.* 2022. [An empirical approach to model selection: weak lensing and intrinsic alignments.](https://doi.org/10.48550/arXiv.2211.02800) Submitted to MNRAS.
+* Pablo Lemos, Marco Raveri, Andresa Campos *et al.* 2021. [Assessing tension metrics with dark energy survey and Planck data.](https://doi.org/10.1093/mnras/stab1670) 
+* Justin Myles, ..., Andresa Campos *et al.* 2018. [Dark Energy Survey Year 3 results: redshift calibration of the weak lensing source galaxies.](https://doi.org/10.1093/mnras/stab1515) 
