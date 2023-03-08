@@ -64,7 +64,7 @@ measurements of cosmological parameters in high dimensional parameter spac
 * **High Performance Computing**: MPI | mpi4py | PySpark | SLURM
 * **Machine Learning & Deep Learning Frameworks:** PyTorch | Scikit-Learn 
 * **Statistical and Machine Learning Techniques** MCMC | Bayesian Statistical Modeling | Decision Trees | k-Nearest Neighbours
-* **Neural Networks and Deep Learning:** Feed-Forward Neural Networks | Convolutional NN | Recurrent NN | Graph NN | Generative Adversarial Networks  
+* **Neural Networks and Deep Learning:** Feed-Forward NN | Convolutional NN | Recurrent NN | Graph NN | Generative Adversarial Networks  
 * **Spoken & Written Languages**: Portuguese (native) | English (fluent) | Spanish (advanced)
 
 ## Education
